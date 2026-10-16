@@ -1,0 +1,21 @@
+{
+    "satisfactory":  {
+                         "status":  "online",
+                         "source":  "automatic",
+                         "checkedAt":  "2026-10-16T14:24:56.0545368Z",
+                         "players":  0,
+                         "maxPlayers":  4,
+                         "health":  "healthy",
+                         "message":  "Game running."
+                     },
+    "valheim":  {
+                    "status":  "coming-soon",
+                    "checkedAt":  null,
+                    "source":  "planned"
+                },
+    "minecraft":  {
+                      "status":  "coming-soon",
+                      "checkedAt":  null,
+                      "source":  "planned"
+                  }
+}
